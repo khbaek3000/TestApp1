@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mobile and Beacon Ticket</string>
+    <string name="mainText">비콘을 이용한 입장권 시스템</string>
+
+    <string name="id_hint">ID</string>
+    <string name="pw_hint">Password</string>
+    <string name="login_title">Login Page</string>
+    <string name="login_confirm_btn">Login</string>
+    <string name="login_cancle_btn">Cancel</string>
+    <string name="login_join_btn">Join</string>
+
+    <string name="join_id">insert ID</string>
+    <string name="join_pw">insert password</string>
+    <string name="join_pw_check">repeat password</string>
+    <string name="join_title">Join Page</string>
+    <string name="join_confirm_btn">Submit</string>
+    <string name="join_cancle_btn">Cancel</string>
+</resources>
